@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on SOFTWARE DEVELOPMENT...
 - 📫 How to reach me , CONTACT MAIL : masankar666@gmail.com...
 - https://www.hackerrank.com/masankar666
+- https://hackr.io/masankar666
 
 <!---
 masankar666/masankar666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
